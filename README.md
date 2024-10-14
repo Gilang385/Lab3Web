@@ -13,8 +13,10 @@
 # Kita akan Membuat **Ordered List**
 ### codinganya : 
 <img width="647" alt="a3" src="https://github.com/user-attachments/assets/354164c3-a60d-47a0-abe0-3eebacf5fc56">
+
 ### Hasilnya :
 <img width="245" alt="a4" src="https://github.com/user-attachments/assets/6295dc2f-ef50-48a6-9342-7c50d580ee55">
+
 # Ordered List
 Singkatnya digunakan untuk membuat daftar dimana tiap bagiannya ditandai dengan sebuah simbol. <br> 
 Ordered list dibuat dengan tag < ol >. Lalu di dalamnya diisi dengan item-item yang akan dimasukkan ke <br>
@@ -24,6 +26,7 @@ dalam list. Item dibuat dengan tag < li > (list item).
 # Lalu kita akan membuat **Unordered List**
 ### Codingannya yang sudah di tambahkan :
 <img width="464" alt="a5" src="https://github.com/user-attachments/assets/8d3ba716-3b47-4066-9f99-5a9d0178700d">
+
 ### Hasilnya :
 <img width="226" alt="a6" src="https://github.com/user-attachments/assets/7ef4f61c-a28f-4de7-b06e-af63305750d0">
 # Unordered List :
@@ -34,8 +37,10 @@ Unordered list dibuat dengan tag < ul > dan untuk item-nya dibuat juga dengan ta
 # Terakhir dari sesi list kita akan membuat **Description List**
 ### Codingannya yang sudah di tambahkan :
 <img width="319" alt="a7" src="https://github.com/user-attachments/assets/1a388817-a762-4dfe-8122-8e26562a1864">
+  
 ### Hasilnya :
 <img width="172" alt="a8" src="https://github.com/user-attachments/assets/5ffaeaf0-d108-442c-ae2f-843e8ac1c029">
+
 # Description List :
 Digunakan untuk membuat daftar dimana tiap daftar tersebut memiliki penjelasan (sub-bagian). <br>
 Ada tiga tag yang digunakan untuk membuat description list, yaitu: <br>
@@ -47,6 +52,7 @@ Ada tiga tag yang digunakan untuk membuat description list, yaitu: <br>
 # Kita akan membuat Table
 ### Codinganya :
 <img width="624" alt="a9" src="https://github.com/user-attachments/assets/495ff23f-2bf9-4bbf-80b7-6d9d90dd8f92">
+
 ### Hasilnya :
 <img width="248" alt="a10" src="https://github.com/user-attachments/assets/bdbd53dd-9e21-4e2d-b337-cc06f96ce3fd">
 # Table
@@ -61,8 +67,10 @@ cellspacing pada tag table. <br>
 ` <table border="1" cellpadding="4" cellspacing="0"> ` <br>
 ### Codingannya yang sudah di tambahakan :
 <img width="387" alt="a11" src="https://github.com/user-attachments/assets/fdd86c29-d92a-4422-be26-c368fc33387c">
+  
 ### Hasilnya :
 <img width="245" alt="a12" src="https://github.com/user-attachments/assets/488a7305-dc37-463f-b969-abf056bd0608">
+
 <br>
 <hr>
 # Menggabungkan Sel Data
@@ -71,25 +79,33 @@ menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (sec
 horizontal).
 ### Codingannya yang sudah di tambahkan :
 <img width="396" alt="a13" src="https://github.com/user-attachments/assets/661a698e-30c9-48a4-9f0d-c76f54b0ae3b">
+
 ### Hasilnya :
 <img width="252" alt="a14" src="https://github.com/user-attachments/assets/e31cc197-6ade-4caa-b504-2abfd36d728c">
+
 <br>
 <hr>
 # Membuat form
 kita akan membuat file baru <br>
 kita akan mulai dengan: <br>
 <img width="625" alt="a15" src="https://github.com/user-attachments/assets/4b00852d-5a1a-4068-825f-40113606b1e2">
+
 ### selanjutnya tambahkan kode di bawah ini untuk membuat tabel sederhana :
-<img width="632" alt="a16" src="https://github.com/user-attachments/assets/4d5a8b46-ca3b-438a-b369-67eb6018399b"> <br>
+<img width="632" alt="a16" src="https://github.com/user-attachments/assets/4d5a8b46-ca3b-438a-b369-67eb6018399b"> 
+<br>
+
 ### maka hasilnya akan seperti ini :
 <img width="780" alt="a17" src="https://github.com/user-attachments/assets/29ba7fe2-f6fc-484d-b8bc-39fed38a12e0">
+
 <br>
 <hr>
 # Menabahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut. <br>
 ### Codingannya :
 <img width="460" alt="a18" src="https://github.com/user-attachments/assets/4401b0db-35df-4687-8cd3-8507d06be1bf">
+
 ### Hasilnya :
-<img width="959" alt="a19" src="https://github.com/user-attachments/assets/93b812a7-c284-4f65-a45d-0596b3af22a1"><br>
+<img width="959" alt="a19" src="https://github.com/user-attachments/assets/93b812a7-c284-4f65-a45d-0596b3af22a1">
+<br>
 <br>
 <hr>
