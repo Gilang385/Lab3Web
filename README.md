@@ -3,10 +3,10 @@
 ## 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 `jawab :`
 ### ini adalah codingannya :
-!<img width="575" alt="a1" src="https://github.com/user-attachments/assets/85e0f45d-c0ce-47bc-b6dc-47e2d47bf736">
+<img width="575" alt="a1" src="https://github.com/user-attachments/assets/85e0f45d-c0ce-47bc-b6dc-47e2d47bf736">
 
 ### ini adalah hasilnya :
-!<img width="322" alt="a2" src="https://github.com/user-attachments/assets/977a726f-05df-492d-a90d-aaa70ee577a6">
+<img width="322" alt="a2" src="https://github.com/user-attachments/assets/977a726f-05df-492d-a90d-aaa70ee577a6">
 
 ---
 ## 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
@@ -23,17 +23,20 @@ Ordered list dibuat dengan tag < ol >. Lalu di dalamnya diisi dengan item-item y
 dalam list. Item dibuat dengan tag < li > (list item).
 <br>
 <hr>
+
 # Lalu kita akan membuat **Unordered List**
 ### Codingannya yang sudah di tambahkan :
 <img width="464" alt="a5" src="https://github.com/user-attachments/assets/8d3ba716-3b47-4066-9f99-5a9d0178700d">
 
 ### Hasilnya :
 <img width="226" alt="a6" src="https://github.com/user-attachments/assets/7ef4f61c-a28f-4de7-b06e-af63305750d0">
+
 # Unordered List :
 Digunakan untuk membuat daftar dimana tiap bagiannya memiliki nomor secara terurut. <br>
 Unordered list dibuat dengan tag < ul > dan untuk item-nya dibuat juga dengan tag < li >.
 <br>
 <hr>
+
 # Terakhir dari sesi list kita akan membuat **Description List**
 ### Codingannya yang sudah di tambahkan :
 <img width="319" alt="a7" src="https://github.com/user-attachments/assets/1a388817-a762-4dfe-8122-8e26562a1864">
@@ -49,17 +52,20 @@ Ada tiga tag yang digunakan untuk membuat description list, yaitu: <br>
 • < dd > (description description) tag untuk membuat penjelasan dari kata. <br>
 <br> 
 <hr>
+
 # Kita akan membuat Table
 ### Codinganya :
 <img width="624" alt="a9" src="https://github.com/user-attachments/assets/495ff23f-2bf9-4bbf-80b7-6d9d90dd8f92">
 
 ### Hasilnya :
 <img width="248" alt="a10" src="https://github.com/user-attachments/assets/bdbd53dd-9e21-4e2d-b337-cc06f96ce3fd">
+
 # Table
 Digunakan untuk menyajikan data dalam bentuk kolom dan baris, tujuannya agar informasi dapat <br>
 ditampilkan secara lebih terstruktur dan tabular.
 <br>
 <hr>
+
 # Sekarang kita akan Mengatur Margin dan Padding
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan <br>
 cellspacing pada tag table. <br>
@@ -73,6 +79,7 @@ cellspacing pada tag table. <br>
 
 <br>
 <hr>
+
 # Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk <br>
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
@@ -99,6 +106,7 @@ kita akan mulai dengan: <br>
 
 <br>
 <hr>
+
 # Menabahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut. <br>
 ### Codingannya :
