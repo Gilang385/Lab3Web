@@ -3,7 +3,7 @@
 ## 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 `jawab :`
 ### ini adalah codingannya :
-x
+<img width="575" alt="a1" src="https://github.com/user-attachments/assets/85e0f45d-c0ce-47bc-b6dc-47e2d47bf736">
 ### ini adalah hasilnya :
 x
 ---
