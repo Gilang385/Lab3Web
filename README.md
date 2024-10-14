@@ -3,9 +3,11 @@
 ## 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 `jawab :`
 ### ini adalah codingannya :
-<img width="575" alt="a1" src="https://github.com/user-attachments/assets/85e0f45d-c0ce-47bc-b6dc-47e2d47bf736">
+!<img width="575" alt="a1" src="https://github.com/user-attachments/assets/85e0f45d-c0ce-47bc-b6dc-47e2d47bf736">
+
 ### ini adalah hasilnya :
-<img width="322" alt="a2" src="https://github.com/user-attachments/assets/977a726f-05df-492d-a90d-aaa70ee577a6">
+!<img width="322" alt="a2" src="https://github.com/user-attachments/assets/977a726f-05df-492d-a90d-aaa70ee577a6">
+
 ---
 ## 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
 # Kita akan Membuat **Ordered List**
